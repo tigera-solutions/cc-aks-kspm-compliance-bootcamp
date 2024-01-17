@@ -1,0 +1,19 @@
+apiVersion: projectcalico.org/v3
+kind: NetworkPolicy
+metadata:
+  name: platform.loadgenerator
+  namespace: vote
+spec:
+  tier: platform
+  order: 150
+  selector: app == 'loadgenerator'
+  types:
+  - Egress
+  egress:
+  - action: Allow
+    protocol: TCP
+    destination:
+      selector: ''
+      ports:
+      - 80
+      - 443
