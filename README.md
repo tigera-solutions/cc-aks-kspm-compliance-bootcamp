@@ -2,7 +2,7 @@
 
 ## Welcome
 
-During this workshop, you will learn how to use Azure AKS and Calico Cloud to design and implement best practices for achieving compliance with regulatory frameworks such as PCI, SOC2, and HIPAA. The workshop will cover topics such as Kubernetes Security Posture Management (KSPM,), implementing security policies for compliance, and generating evidence and audit reports.
+During this workshop, you will learn how to use Azure AKS and Calico Cloud to design and implement best practices for achieving compliance with regulatory frameworks such as PCI, SOC2, and HIPAA. The workshop will cover topics such as Kubernetes Security Posture Management (KSPM), implementing security policies for compliance, and generating evidence and audit reports.
 
 Organizations creating cloud-native applications that meet regulations have two main requirements. The first is to secure and manage access to containerized workloads and the Kubernetes environment. The second is to streamline audit logging and compliance reporting. Kubernetes is a distributed and dynamic environment where workloads are ephemeral. It is challenging to enforce compliance controls and provide consistent reporting.
 
