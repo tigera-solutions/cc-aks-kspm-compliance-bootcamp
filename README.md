@@ -1,4 +1,4 @@
-# Microsoft AKS Security Bootcamp: <br> Kubernetes Posture Management (KSPM) and Compliance
+# Microsoft AKS Security Bootcamp: <br> Kubernetes Security Posture Management (KSPM) and Compliance
 
 ## Welcome
 
