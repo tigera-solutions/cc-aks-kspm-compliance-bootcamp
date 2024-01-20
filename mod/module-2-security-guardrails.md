@@ -11,7 +11,7 @@ In this module, we will learn how to use Calico to create network policies to co
    cd cc-aks-kspm-compliance-bootcamp
    ```
 
-1. Installing the example application stacks:
+1. Install the example application stacks:
 
    From the cloned directory, execute:
 

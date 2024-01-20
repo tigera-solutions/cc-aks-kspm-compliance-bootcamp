@@ -30,7 +30,7 @@
 6. Delete this cloned repository
 
    ```bash
-   cd ../.. && rm -Rf cc-aks-compliance-workshop
+   cd .. && rm -Rf cc-aks-kspm-compliance-bootcamp
    ```
 
 ---
